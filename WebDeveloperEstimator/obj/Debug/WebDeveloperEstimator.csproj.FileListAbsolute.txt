@@ -1,0 +1,10 @@
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\bin\Debug\WebDeveloperEstimator.exe.config
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\bin\Debug\WebDeveloperEstimator.exe
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\bin\Debug\WebDeveloperEstimator.pdb
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\obj\Debug\WebDeveloperEstimator.csprojResolveAssemblyReference.cache
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\obj\Debug\WebDeveloperEstimator.frmMain.resources
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\obj\Debug\WebDeveloperEstimator.Properties.Resources.resources
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\obj\Debug\WebDeveloperEstimator.splash.resources
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\obj\Debug\WebDeveloperEstimator.csproj.GenerateResource.Cache
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\obj\Debug\WebDeveloperEstimator.exe
+g:\users\sweetheart\documents\visual studio 2015\Projects\WebDeveloperEstimator\WebDeveloperEstimator\obj\Debug\WebDeveloperEstimator.pdb
